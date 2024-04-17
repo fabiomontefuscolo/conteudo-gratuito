@@ -123,11 +123,12 @@ Recomendações de canais de youtube, podcasts e livros e muito mais!!
 | [20.21](https://open.spotify.com/show/38aOCkDPBAQ6RT0ufXIDjE)                                                                                  | Podcast                     | Não         | PT-BR    |
 | [Cabeça de Lab](https://www.cabecadelab.com.br/)                                                                                               | Podcast                     | Não         | PT-BR    |
 | [Commit](https://radiopublic.com/commit-WYMXMl/episodes)                                                                      | Podcast                        | Não         | PT-BR    |
-| Livros
+|Livros
 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)                                                                   | Livro                       | Não         | EN       |
 | [Caelum](https://www.caelum.com.br/apostilas)                                                                                                  | Apostilas                   | Não         | PT-BR    |
 | [Clojure for the Brave and True](https://www.braveclojure.com/)                                                                                | Livro                       | Não         | EN       |
 | [Pyhton para todos](http://do1.dr-chuck.com/pythonlearn/PT_br/pythonlearn.pdf)                                                                                | Livro                       | Não         | PT-BR      |![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|Ensina a programar a Python orientado à análise de dados|
+| [Python Fluente](https://pythonfluente.com/)                                                                                                   | Livro                       | Não         | PT-BR      |![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|Recomendado para quem já sabe um pouco de Python. O [código fonte do livro está disponível no Github](https://github.com/pythonfluente/pythonfluente2e)|
 |Outros
 | [Baeldung](https://www.baeldung.com/)                                                                   | Blog/Tutoriais                     | Não         | EN       
 | [Compiladoras de Cafeína](https://dev.to/compiladoras) | Blog                        | Não         | PT-BR    |
